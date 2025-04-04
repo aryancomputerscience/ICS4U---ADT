@@ -6,8 +6,8 @@
 **
 
 
-Use the simple createStack() function we learned
+- Use the simple createStack() function we learned
 
-Write a function that takes a word and reverses it using the stack
+- Write a function that takes a word and reverses it using the stack
 
-Test it with the word "hello"
+- Test it with the word "hello"
