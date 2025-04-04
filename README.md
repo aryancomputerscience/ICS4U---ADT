@@ -1,5 +1,5 @@
 # ICS4U---ADT
-Assignment for ADT presentation - Have fun!
+
 
 
 **What You Need to Do:
